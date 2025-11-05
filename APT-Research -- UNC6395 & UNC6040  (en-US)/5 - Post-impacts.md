@@ -37,6 +37,7 @@ Russian speakers, however, the attempt was merely to confuse authorities regardi
 each target, given that the arrests involved French, British, American, Canadian, and Turkish
 individuals. In this case, the translation of the Russian user is not applicable as it concerns another
 subject unrelated to the UNC's.
+
 <img width="766" height="201" alt="image" src="https://github.com/user-attachments/assets/c7ba70b4-3bf9-49a9-a0a8-5b357b8319b2" />
 
 Following the publicized arrests, the group effectively began to dissipate, along with farewell "letters" and subliminal messages, such as the one below, identified by me as a member of iT.eam's intelligence team on 10/20/2025 around 11:45 PM. (Brasília local - time (Brazil))
