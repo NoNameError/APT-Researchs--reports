@@ -14,9 +14,10 @@ threat to the organization; Adversary behavior and potential
 objectives; Enrichment of Intelligence information to aid
 decision-making.
 
+### Executive Summary
+
 <img width="1280" height="720" alt="executive copy" src="https://github.com/user-attachments/assets/56f391a4-5df4-464a-9d98-5aa5a628f965" />
 
-**Executive Summary**
 
 In mid-April 2025, a group that had, until then, only been active in a few underground data breach forums
 on the conventional web, began to attract attention not only fromlarge corporations but also fromfederal
@@ -57,4 +58,5 @@ decisions regarding detections and mitigations, when necessary, against the acti
 groups. Furthermore, the CTI team conducts internal analyses to refine rules or create new use cases,
 congregating information and defenses that will also be applied to our clients, in addition to populating
 our IOC databases in our SIEM and MISP.
+
 
