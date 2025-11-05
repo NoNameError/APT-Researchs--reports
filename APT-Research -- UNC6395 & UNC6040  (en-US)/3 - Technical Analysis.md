@@ -58,4 +58,26 @@ The Server header consistently shows Apache/2.4.58 (Win64) with OpenSSL/3.1.3 an
 PHP versions (8.0.30 vs. 8.2.12), indicating a centralized configuration and management under the same
 operation.
 
+The main messages with direct provocations to the FBI contain "Fuck da/the
+FEDS (Federals)", a phrase even used in the data leak announcement as a form of taunting. The members
+were aware of the FBI's hunt and the infiltration of this and other agencies into their various groups.
+<img width="380" height="339" alt="image" src="https://github.com/user-attachments/assets/f7f3a105-9205-48fc-b883-b650c2d283a8" />
+<img width="539" height="792" alt="image" src="https://github.com/user-attachments/assets/88717335-0fde-4e4f-bd99-0d951fdebfd9" />
+
+
+Coupled with this, the group's communication is a key point, as it became their behavioral identity.
+Consequently, beyond the fame and unique characteristic, the provocations are a means of "pressuring"
+companies at the moment of decision-making regarding payment to the group. Overall, besides
+expressions of defiance and dark humor, the announcements also followthe same line of communication,
+such as, for example, in the compromise of the Stellantis database:
+<img width="541" height="663" alt="image" src="https://github.com/user-attachments/assets/cb5dc45e-8661-4b9a-9745-6ad4a0264e0d" />
+
+As a direct consequence of the attack on SalesForce, other companies that are references in their
+respective segments were compromised.
+<img width="790" height="426" alt="image" src="https://github.com/user-attachments/assets/30ae3032-2505-4663-adeb-d49ef09663c5" />
+<img width="723" height="206" alt="image" src="https://github.com/user-attachments/assets/c369d00b-2c6a-4cfe-9cad-741c7abb5906" />
+
+
+
+
 
