@@ -70,10 +70,12 @@ Consequently, beyond the fame and unique characteristic, the provocations are a 
 companies at the moment of decision-making regarding payment to the group. Overall, besides
 expressions of defiance and dark humor, the announcements also followthe same line of communication,
 such as, for example, in the compromise of the Stellantis database:
+
 <img width="541" height="663" alt="image" src="https://github.com/user-attachments/assets/cb5dc45e-8661-4b9a-9745-6ad4a0264e0d" />
 
 As a direct consequence of the attack on SalesForce, other companies that are references in their
 respective segments were compromised.
+
 <img width="790" height="426" alt="image" src="https://github.com/user-attachments/assets/30ae3032-2505-4663-adeb-d49ef09663c5" />
 <img width="723" height="206" alt="image" src="https://github.com/user-attachments/assets/c369d00b-2c6a-4cfe-9cad-741c7abb5906" />
 
