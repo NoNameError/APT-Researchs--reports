@@ -7,8 +7,6 @@ objetivos potenciais; Enriquecimento de informações de Intelligence com o aux�
 
 
 
-
-
 📘 **Executive Summary**
 
 Os ataques ao sistema financeiro brasileiro iniciados em julho de 2025marcaram uma nova etapa na evolução das ameaças cibernéticas contra o setor. O incidente revelou um nível inédito de
