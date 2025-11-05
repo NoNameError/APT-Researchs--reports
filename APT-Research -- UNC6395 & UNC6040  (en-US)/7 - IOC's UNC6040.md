@@ -85,3 +85,9 @@
 208.131.130.53
 208.131.130.71
 208.131.130.91
+
+Login[.]salesforce[.]com/setup/connect?user_code=aKYF7V5N
+Login.salesforce.com/setup/connect?user_code=8KCQGTVU
+https://help[victim][.]com
+https://login[.]salesforce[.]com/setup/connect
+http://64.95.11[.]112/hello.php 91.199.42.164/login
