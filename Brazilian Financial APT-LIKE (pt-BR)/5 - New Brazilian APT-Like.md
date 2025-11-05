@@ -36,9 +36,9 @@ APT-Like conta com as mesmas TTP's, como as diversas técnicas de Initial Access
 Defense Evasion, Exfiltration e C2. Sendo exatamente esse o contexto das ameaças financeiras
 surgidas e aprimoradas dentro do Brasil desde 2016.
 
-Dentro de estudos de casos reais e análises feitas pela equipe de Intelligence da iT.EAM e a ligação
+Dentro de estudos de casos reais e análises feitas por mim dentro da equipe de Intelligence da iT.EAM e a ligação
 com as diversas informações públicas na internet e com fontes de servidores públicos da área de
-segurança pública, sejam através de documentos, podcasts, documentários e outros, alinhados ao
+segurança pública, órgãos também dos quais foram clientes, sejam através de documentos, podcasts, documentários e outros, alinhados ao
 contexto geográfico de cada região do Brasil, atualmente, há fortes indícios de investimentos por
 parte do PCC (facção criminosa) em pessoas da área de tecnologia, coagindo ou não tais
 profissionais, inclusive com ameaças pessoais e familiares ou de forma mais branda, com a
