@@ -17,4 +17,4 @@ APT groups (UNCs, nation-state, and organized crime actors, including Brazilian 
 -Ransomware campaigns and affiliate models
 -Threat actor infrastructure and pivoting-based intelligence
 -Behavioral evolution and toolset tracking
--OSINT information and self-analysis
+-OSINT information and self-analysis.
