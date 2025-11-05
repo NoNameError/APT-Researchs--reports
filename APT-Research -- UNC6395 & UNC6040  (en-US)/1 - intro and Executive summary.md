@@ -2,6 +2,8 @@
 EclecticIQ: [ShinyHunters calling – Financially motivated data extortion group]
 FBI Report
 
+### Decisions
+
 **Key Decisions:** To determine the understanding of how
 attacks on various companies have developed and how to
 protect the internal environment, aligned with the knowledge
@@ -55,3 +57,4 @@ decisions regarding detections and mitigations, when necessary, against the acti
 groups. Furthermore, the CTI team conducts internal analyses to refine rules or create new use cases,
 congregating information and defenses that will also be applied to our clients, in addition to populating
 our IOC databases in our SIEM and MISP.
+
