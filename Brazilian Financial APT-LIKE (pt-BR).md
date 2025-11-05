@@ -6,6 +6,9 @@ como proteger o ambiente interno, alinhado com o conhecimento e TTP's dos novos 
 objetivos potenciais; Enriquecimento de informações de Intelligence com o auxílio na tomada de decisão.
 
 
+
+
+
 📘 **Executive Summary**
 
 Os ataques ao sistema financeiro brasileiro iniciados em julho de 2025marcaram uma nova etapa na evolução das ameaças cibernéticas contra o setor. O incidente revelou um nível inédito de
@@ -83,3 +86,6 @@ Este movimento reforça a necessidade de
 fortalecimento de controles de acesso privilegiado, revisão de integrações API, auditoria de
 dependências externas e implementação de threat hunting focado em cadeias de suprimentos —
 hoje, o principal vetor de risco sistêmico no setor financeiro nacional.
+
+<img width="803" height="462" alt="image" src="https://github.com/user-attachments/assets/17b89c45-17b7-465f-b26d-ca1939a7d571" />
+
