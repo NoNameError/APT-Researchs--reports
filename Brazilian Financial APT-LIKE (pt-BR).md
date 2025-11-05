@@ -6,7 +6,7 @@ como proteger o ambiente interno, alinhado com o conhecimento e TTP's dos novos 
 objetivos potenciais; Enriquecimento de informações de Intelligence com o auxílio na tomada de decisão.
 
 
-📘 Executive Summary
+📘 **Executive Summary**
 
 Os ataques ao sistema financeiro brasileiro iniciados em julho de 2025marcaram uma nova etapa na evolução das ameaças cibernéticas contra o setor. O incidente revelou um nível inédito de
 coordenação entre grupos criminosos e atores técnicos capazes de explorar fragilidades na cadeia
@@ -33,7 +33,7 @@ cooperação entre fraudadores, técnicos e insiders. A resposta do setor precis
 velocidade, priorizando integração de defesas, fortalecimento de parcerias estratégicas e uma
 cultura de segurança que transcenda os limites institucionais.
 
-📘 Analysis Summary
+📘 **Analysis Summary**
 
 A série de incidentes iniciada em julho de 2025 representa uma das campanhas mais complexas já
 observadas contra o sistema financeiro brasileiro, caracterizada pela exploração coordenada da
